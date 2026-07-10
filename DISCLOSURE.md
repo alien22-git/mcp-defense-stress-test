@@ -51,7 +51,7 @@ the paper's headline number.
 > choice and attack category. I'd welcome any correction if I've
 > misrepresented the architecture.
 >
-> Writeup and code: [link]
+> Writeup and code: https://github.com/alien22-git/mcp-defense-stress-test
 >
 > Thank you for the work, and for making the design clear enough to
 > rebuild.
